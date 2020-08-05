@@ -1,4 +1,4 @@
-reverse_each_word"Hello there, and how are you?"()
+reverse_each_word"Hello there, and how are you?")
  sentence.each do |sentence|
    return"Hello ther, and how are you?"
  end
