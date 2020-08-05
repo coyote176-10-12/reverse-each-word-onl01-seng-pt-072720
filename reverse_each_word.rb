@@ -1,8 +1,5 @@
 reverse_each_word(sentence)
- sentence.each do |sentence|
-   return"Hello there, and how are you?"
- end
- end
+ 
  
 # describe '#reverse_each_word' do
  # let(:sentence1) { "Hello there, and how are you?" }
