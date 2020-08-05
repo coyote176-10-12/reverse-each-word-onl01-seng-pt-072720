@@ -1,4 +1,4 @@
-reverse_each_word(sentence)
+reverse_each_word()
  
  
 # describe '#reverse_each_word' do
