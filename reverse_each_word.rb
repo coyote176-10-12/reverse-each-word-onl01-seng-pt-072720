@@ -1,5 +1,5 @@
 def reverse_each_word(sentence)
- 
+
  
 # describe '#reverse_each_word' do
  # let(:sentence1) { "Hello there, and how are you?" }
